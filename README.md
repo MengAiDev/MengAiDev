@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 让我们一起奔赴AI的伟大年华 
+
+Intelligence!
 
 <!--
 **MengAiDev/MengAiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
