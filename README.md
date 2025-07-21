@@ -25,3 +25,4 @@ Here are some ideas to get you started:
  |____/   \__,_| |_| |_|  \__,_|   |____/   \___|  \__|  \__|  \___| |_|        |_|    \___/   \__, |  \___|  \__| |_| |_|  \___| |_|   
                                                                                                |___/
 ```                              
+[![MengAiDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MengAiDev)](https://github.com/anuraghazra/github-readme-stats)
