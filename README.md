@@ -20,3 +20,7 @@ Functions descibe the world!
 ## Great tools
 
 1. iflow cli: https://github.com/iflow-ai/iflow-cli
+Install:
+```bash
+bash -c "$(curl -fsSL https://cloud.iflow.cn/iflow-cli/install.sh)"
+```
