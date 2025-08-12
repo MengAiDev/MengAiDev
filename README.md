@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Functions descibe the world!
+![Functions](functions.png)
+
 ```
   ____            _   _       _     ____           _     _                     _____                          _     _                   
  | __ )   _   _  (_) | |   __| |   | __ )    ___  | |_  | |_    ___   _ __    |_   _|   ___     __ _    ___  | |_  | |__     ___   _ __ 
